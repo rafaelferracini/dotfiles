@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#excalidraw",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: #matematica  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag: #fisica  ",
+      "color": {
+        "a": 1,
+        "rgb": 11007
+      }
+    },
+    {
+      "query": "tag: #estudo  ",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.74945454545455,
+  "lineSizeMultiplier": 1.19090909090909,
+  "collapse-forces": false,
+  "centerStrength": 0.103896103896104,
+  "repelStrength": 11.4820037105751,
+  "linkStrength": 0.398367346938776,
+  "linkDistance": 70,
+  "scale": 0.04649757404199966,
+  "close": true
+}
