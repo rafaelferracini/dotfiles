@@ -11,9 +11,10 @@
   "obsidian-latex-suite",
   "obsidian-latex",
   "quick-preview",
-  "math-booster",
   "number-headings-obsidian",
   "session-notes",
   "excalidraw-extras",
-  "dataview"
+  "dataview",
+  "math-booster",
+  "md-to-latex-converter"
 ]
