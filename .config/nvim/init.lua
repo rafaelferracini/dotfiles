@@ -13,5 +13,8 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 -- Carrega as configurações da pasta lua/plugins
-require("lazy").setup("plugins")
+require("config.autocmds")
+require("config.set")
 require("config.keymaps")
+require("config.options")
+require("lazy").setup("plugins")
