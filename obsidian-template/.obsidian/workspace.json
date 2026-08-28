@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "a297267c94f8032a",
+    "type": "split",
+    "children": [
+      {
+        "id": "60729223d51ed012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83e3d3660d80298f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Permanent/como usar repositório dotfiles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "como usar repositório dotfiles"
+            }
+          },
+          {
+            "id": "e59e2cd78bc9fccc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "dinamica_nao_linear/referencias/Steven H. Strogatz - Nonlinear Dynamics and Chaos.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Steven H. Strogatz - Nonlinear Dynamics and Chaos"
+            }
+          },
+          {
+            "id": "e08d503d9c05c2e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "01 - Resources/260820261127.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "260820261127"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16f3b92da6f05cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8113c47f38f1b0a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f7dee51835edada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "4b39edbd94c86267",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ebc8f70aa3b51ce0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62392bc6f2ed54e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f41505683c351cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150d9a2fc93f15b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "035f0593e3aaa658",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "170ac92a20fef4cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c45f71fd82c55c1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "d451ce6d4dbda885",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "83e3d3660d80298f",
+  "lastOpenFiles": [
+    "estrutura_de_dados/pilhas/chaves.h~",
+    "estrutura_de_dados/pilhas/main.cpp~",
+    "estrutura_de_dados/pilhas/main.cpp",
+    "estrutura_de_dados/pilhas/chaves.h",
+    "estrutura_de_dados/pilhas/test_array_stack",
+    "estrutura_de_dados/pilhas/teste",
+    "estrutura_de_dados/bin_out",
+    "estrutura_de_dados/pilhas/test_array_stack.cpp~",
+    "estrutura_de_dados/pilhas/test_array_stack.cpp",
+    "estrutura_de_dados/pilhas/array_stack.h~",
+    "dinamica_nao_linear/Aulas/Aula 04 - Exercícios Strogatz.md",
+    "dinamica_nao_linear/referencias/Steven H. Strogatz - Nonlinear Dynamics and Chaos.pdf",
+    "Pasted image 20260827091219.png",
+    "Pasted image 20260827090802.png",
+    "dinamica_nao_linear/Aulas/Aula 02 -.md",
+    "dinamica_nao_linear/Aulas/Aula 00 - Introdução a Sistemas Dinâmicos.md",
+    "dinamica_nao_linear/Aulas/Aula 03 - Bifurcações e Tempo Discreto.md",
+    "Sem título.md",
+    "dinamica_dos_fluidos/Aula 03 - Dinâmica dos Fluidos.md",
+    "dinamica_dos_fluidos/Aula 01 - Definição de um Fluido.md",
+    "dinamica_dos_fluidos/Aula 02 - Cinemática dos Fluidos.md",
+    "01 - Resources/260820261127.md",
+    "01 - Resources/260820261127.svg",
+    "01 - Resources/260820261118.md",
+    "01 - Resources/260820261118.svg",
+    "01 - Resources/260820261038.md",
+    "01 - Resources/260820261038.svg",
+    "01 - Resources/260820261024.md",
+    "01 - Resources/260820261024.svg",
+    "01 - Resources/260820261019.md",
+    "01 - Resources/260820261019.svg",
+    "estrutura_de_dados/Aula 03 - Pilhas (Stack).md",
+    "01 - Resources/250820261714.md",
+    "01 - Resources/250820261714.svg",
+    "01 - Resources/250820261640.md",
+    "01 - Resources/250820261630.md",
+    "01 - Resources/250820261618.md",
+    "01 - Resources/250820261640.svg",
+    "01 - Resources/250820261630.svg",
+    "01 - Resources/250820261559.md",
+    "01 - Resources/250820261527.md",
+    "dinamica_nao_linear/Aulas/Aula 01 - Pontos de Equilíbrio.md",
+    "02 - Permanent/mensagens para commit.md",
+    "02 - Permanent/configurar eduroam via terminal.md",
+    "01 - Resources/240820261959.md",
+    "04 - Teoria/Mecânica Estatística/função de partição para sistemas contínuos.md"
+  ]
+}
