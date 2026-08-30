@@ -4,45 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "60729223d51ed012",
+        "id": "bad52d6aaa00b654",
         "type": "tabs",
         "children": [
           {
-            "id": "83e3d3660d80298f",
+            "id": "9d765f0a08d94862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Permanent/como usar repositório dotfiles.md",
+                "file": "04 - Teoria/Física Moderna/princípio da incerteza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "como usar repositório dotfiles"
+              "title": "princípio da incerteza"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a94c1a78fa808df0",
+        "type": "tabs",
+        "children": [
           {
-            "id": "e59e2cd78bc9fccc",
+            "id": "b1cefce21d7a020a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "video",
               "state": {
-                "file": "dinamica_nao_linear/referencias/Steven H. Strogatz - Nonlinear Dynamics and Chaos.pdf"
+                "file": "06 - Aulas/Física Moderna/1 - Primórdios da quântica/1.7 Princípio da Incerteza.mp4"
               },
-              "icon": "lucide-file-text",
-              "title": "Steven H. Strogatz - Nonlinear Dynamics and Chaos"
-            }
-          },
-          {
-            "id": "e08d503d9c05c2e4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "01 - Resources/260820261127.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "260820261127"
+              "icon": "lucide-file",
+              "title": "1.7 Princípio da Incerteza"
             }
           }
         ]
@@ -107,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5
   },
   "right": {
     "id": "62392bc6f2ed54e5",
@@ -207,53 +201,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83e3d3660d80298f",
+  "active": "9d765f0a08d94862",
   "lastOpenFiles": [
-    "estrutura_de_dados/pilhas/chaves.h~",
-    "estrutura_de_dados/pilhas/main.cpp~",
-    "estrutura_de_dados/pilhas/main.cpp",
-    "estrutura_de_dados/pilhas/chaves.h",
-    "estrutura_de_dados/pilhas/test_array_stack",
-    "estrutura_de_dados/pilhas/teste",
-    "estrutura_de_dados/bin_out",
-    "estrutura_de_dados/pilhas/test_array_stack.cpp~",
-    "estrutura_de_dados/pilhas/test_array_stack.cpp",
-    "estrutura_de_dados/pilhas/array_stack.h~",
+    "06 - Aulas/Física Moderna/1 - Primórdios da quântica/1.7 Princípio da Incerteza.mp4",
+    "04 - Teoria/Física Moderna/princípio da incerteza.md",
+    "04 - Teoria/Física Moderna/efeito fotoelétrico.md",
+    "06 - Aulas/Física Moderna/1 - Primórdios da quântica/1.5 Efeito fotoelétrico - Descrição.mp4",
+    "06 - Aulas/Física Moderna/1 - Primórdios da quântica/1.6 Efeito fotoelétrico - Cobrança.mp4",
+    "01 - Resources/300820261814.md",
+    "01 - Resources/300820261814.svg",
+    "06 - Aulas/Física Moderna/1 - Primórdios da quântica/1.4 Efeito Compton.mp4",
+    "06 - Aulas/Física Moderna/2 - Relatividade especial/2.7 Simultaneidade e intervalo - Simultaneidade relativa.mp4",
+    "06 - Aulas/Física Moderna/2 - Relatividade especial/2.6 Simultaneidade e intervalo - Tipos de intervalo.mp4",
+    "06 - Aulas/Física Moderna/2 - Relatividade especial/2.5 Momento relativístico - Conservação do módulo de 4-momento.mp4",
+    "06 - Aulas/Física Moderna/2 - Relatividade especial/2.4 Momento relativístico - Colisões e decaimentos.mp4",
+    "06 - Aulas/Física Moderna/2 - Relatividade especial/2.3 Momento relativístico - Dinâmica.mp4",
+    "06 - Aulas/Física Moderna/2 - Relatividade especial/2.2 Composição de velocidades.mp4",
+    "04 - Teoria/Física Moderna/efeito compton.md",
+    "04 - Teoria/Física Moderna/relação de de broglie.md",
+    "04 - Teoria/Física Moderna/fotons.md",
+    "04 - Teoria/Física Moderna/emissão térmica.md",
+    "04 - Teoria/Sem título.md",
+    "04 - Teoria/Termodinâmica/lei de fourier.md",
+    "04 - Teoria/Termodinâmica/máquinas térmica e ciclo de carnout.md",
+    "04 - Teoria/Termodinâmica/segunda lei da termodinamica.md",
+    "01 - Resources/300820261623.md",
+    "01 - Resources/300820261623.svg",
+    "04 - Teoria/Termodinâmica/primeira lei da termodinâmica.md",
+    "01 - Resources/300820261554.md",
+    "01 - Resources/300820261554.svg",
+    "04 - Teoria/Termodinâmica/gases ideais e primeira lei de termodinamica.md",
+    "04 - Teoria/Termodinâmica/calor sensível e calor latente.md",
+    "04 - Teoria/Mecânica Quântica/coeficientes de reflexão e transmissão.md",
+    "dinamica_dos_fluidos/Aula 03 - Dinâmica dos Fluidos.md",
+    "dinamica_dos_fluidos/Aula 04 -.md",
+    "01 - Resources/280820261103.md",
+    "01 - Resources/280820261051.md",
+    "01 - Resources/280820261103.svg",
+    "01 - Resources/280820261051.svg",
+    "01 - Resources/280820261013.md",
+    "01 - Resources/280820261013.svg",
     "dinamica_nao_linear/Aulas/Aula 04 - Exercícios Strogatz.md",
-    "dinamica_nao_linear/referencias/Steven H. Strogatz - Nonlinear Dynamics and Chaos.pdf",
     "Pasted image 20260827091219.png",
     "Pasted image 20260827090802.png",
     "dinamica_nao_linear/Aulas/Aula 02 -.md",
     "dinamica_nao_linear/Aulas/Aula 00 - Introdução a Sistemas Dinâmicos.md",
-    "dinamica_nao_linear/Aulas/Aula 03 - Bifurcações e Tempo Discreto.md",
-    "Sem título.md",
-    "dinamica_dos_fluidos/Aula 03 - Dinâmica dos Fluidos.md",
-    "dinamica_dos_fluidos/Aula 01 - Definição de um Fluido.md",
-    "dinamica_dos_fluidos/Aula 02 - Cinemática dos Fluidos.md",
-    "01 - Resources/260820261127.md",
     "01 - Resources/260820261127.svg",
-    "01 - Resources/260820261118.md",
-    "01 - Resources/260820261118.svg",
-    "01 - Resources/260820261038.md",
-    "01 - Resources/260820261038.svg",
-    "01 - Resources/260820261024.md",
-    "01 - Resources/260820261024.svg",
-    "01 - Resources/260820261019.md",
-    "01 - Resources/260820261019.svg",
-    "estrutura_de_dados/Aula 03 - Pilhas (Stack).md",
-    "01 - Resources/250820261714.md",
-    "01 - Resources/250820261714.svg",
-    "01 - Resources/250820261640.md",
-    "01 - Resources/250820261630.md",
-    "01 - Resources/250820261618.md",
-    "01 - Resources/250820261640.svg",
-    "01 - Resources/250820261630.svg",
-    "01 - Resources/250820261559.md",
-    "01 - Resources/250820261527.md",
-    "dinamica_nao_linear/Aulas/Aula 01 - Pontos de Equilíbrio.md",
-    "02 - Permanent/mensagens para commit.md",
-    "02 - Permanent/configurar eduroam via terminal.md",
-    "01 - Resources/240820261959.md",
-    "04 - Teoria/Mecânica Estatística/função de partição para sistemas contínuos.md"
+    "01 - Resources/260820261118.svg"
   ]
 }
