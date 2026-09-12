@@ -117,11 +117,16 @@
       <eventcontext
          id="rect"
          style="fill:blue;"
-         usecurrent="1" />
+         usecurrent="1"
+         width="18.721272626261"
+         height="133.490807240404"
+         ry="0"
+         rx="5.24514814783538e-16" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
-         usecurrent="1">
+         usecurrent="1"
+         persp="perspective7">
         <side
            id="XYfront"
            style="fill:#8686bf;stroke:none;stroke-linejoin:round;"
@@ -150,17 +155,18 @@
       <eventcontext
          id="arc"
          style="fill:red;"
-         end="0"
+         end="119.99999986288"
          start="0"
          usecurrent="1"
-         rx="50.6495065764179"
-         ry="51.1099555548721" />
+         rx="14.4155790674405"
+         ry="14.4155790674405"
+         arc_type="1" />
       <eventcontext
          id="star"
          magnitude="3"
          style="fill:yellow;"
          usecurrent="1"
-         proportion="0.499999988339604" />
+         proportion="0.499999982789245" />
       <eventcontext
          id="spiral"
          style="fill:none;stroke:black"
@@ -591,7 +597,10 @@
        id="transformation"
        applyseparately="0" />
     <group
-       id="align" />
+       id="align"
+       sel-as-groups="1"
+       oncanvas="0"
+       objects-align-to="page" />
     <group
        id="xml"
        h="500"
@@ -609,7 +618,7 @@
     <group
        id="preferences"
        state="1"
-       page="45" />
+       page="18" />
     <group
        id="gradienteditor" />
     <group
@@ -654,7 +663,8 @@
        id="clonetiler"
        dotrace="0" />
     <group
-       id="gridtiler" />
+       id="gridtiler"
+       SpacingType="20" />
     <group
        id="extension-error"
        show-on-startup="0" />
@@ -690,6 +700,9 @@
     <group
        id="objects"
        expand_to_layer="1" />
+    <group
+       id="symbols"
+       current-set="{?cur-doc?}" />
   </group>
   <group
      id="printing">
@@ -982,18 +995,66 @@
        id="threading" />
     <group
        id="ruler" />
+    <group
+       id="snapping"
+       snap-bbox="1"
+       snap-bbox-edge="1"
+       snap-bbox-corner="1"
+       snap-bbox-edge-midpoint="1"
+       snap-bbox-center="1"
+       simple-snap-bbox="1"
+       snap-node-category="0"
+       snap-path="0"
+       snap-path-intersection="0"
+       snap-node-cusp="0"
+       snap-node-smooth="0"
+       snap-line-midpoint="0"
+       snap-line-tangential="0"
+       snap-line-perpendicular="1"
+       simple-snap-nodes="1"
+       snap-alignment="0"
+       snap-alignment-self="0"
+       snap-distribution="0"
+       simple-snap-alignment="0"
+       snap-others="0"
+       snap-object-midpoint="0"
+       snap-rotation-center="0"
+       snap-text-baseline="0"
+       snap-path-mask="0"
+       snap-path-clip="0"
+       snap-page-border="0"
+       snap-page-margin="0"
+       snap-grid="0"
+       snap-grid-line="1"
+       snap-guide="0"
+       snap-global-toggle="1" />
   </group>
   <group
      id="extensions"
      org.inkscape.output.png.inkscape.png_bitdepth="99"
      org.inkscape.output.png.inkscape.png_compression="6"
-     org.inkscape.output.png.inkscape.png_antialias="2" />
+     org.inkscape.output.png.inkscape.png_antialias="2"
+     org.inkscape.generate.pdf_latex.page="basic"
+     org.inkscape.generate.pdf_latex.formule="$(b)$"
+     org.inkscape.generate.pdf_latex.preamble="\usepackage{amsmath}\usepackage{amssymb}\usepackage{lmodern}"
+     org.inkscape.generate.grid_polar.a_labels="none"
+     org.inkscape.generate.grid_polar.__live_effect__="0"
+     org.inkscape.generate.grid_polar.c_dot_dia="1"
+     org.inkscape.generate.grid_polar.r_divs="3"
+     org.inkscape.generate.grid_polar.tab="angular_div"
+     org.inkscape.generate.grid_polar.a_divs="5"
+     org.inkscape.render.wireframe_sphere.__live_effect__="0"
+     org.inkscape.render.wireframe_sphere.num_lat="1"
+     org.inkscape.render.wireframe_sphere.num_long="0"
+     org.inkscape.render.wireframe_sphere.tilt="15"
+     org.inkscape.render.wireframe_sphere.hide_back="1"
+     org.inkscape.render.wireframe_sphere.rotation="5" />
   <group
      id="desktop"
-     style="fill:#000000;text-orientation:auto;stroke-width:1.0015748;stroke:#000000;fill-opacity:0">
+     style="text-orientation:auto;stroke-width:1.07338583;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#000000;-inkscape-font-specification:'Liberation Mono';font-family:'Liberation Mono'">
     <group
-       width="1071"
-       height="507"
+       width="1900"
+       height="1025"
        x="0"
        y="0"
        maximized="1"
@@ -1018,7 +1079,7 @@
      id="toolbox"
      icononly="1"
      secondary="1"
-     simplesnap="1"
+     simplesnap="0"
      small="1">
     <group
        id="tools"
@@ -1130,4 +1191,13 @@
        symbolicWarningColor="4279865599"
        symbolicErrorColor="10086143" />
   </group>
+  <group
+     id="gradient-edit"
+     stoplist="1" />
+  <group
+     id="pattern-edit"
+     currentSet="0" />
+  <group
+     id="color_scales"
+     wheel_vis_hsl="0" />
 </inkscape>
