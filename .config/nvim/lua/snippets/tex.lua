@@ -33,7 +33,7 @@ return {
 	s(
 		{ trig = "beg", snippetType = "autosnippet" },
 		fmta("\\begin{<>}\n\t<>\n\\end{<>}", { i(1), i(2), rep(1) }),
-		{ condition = in_mathzone }
+		{ condition = in_text }
 	),
 
 	s(
@@ -86,7 +86,6 @@ return {
 		fmta("\\text{<>}<>", { i(1), i(2) }),
 		{ condition = in_mathzone }
 	),
-	s({ trig = '"', snippetType = "autosnippet" }, fmta("\\text{<>}<>", { i(1), i(2) }), { condition = in_mathzone }),
 	s({ trig = "quad", snippetType = "autosnippet" }, { t("\\quad ") }, { condition = in_mathzone }),
 	s({ trig = "qquad", snippetType = "autosnippet" }, { t("\\quad \\quad ") }, { condition = in_mathzone }),
 
