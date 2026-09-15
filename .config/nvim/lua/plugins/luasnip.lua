@@ -12,17 +12,20 @@ return {
 
 		-- Atalhos para navegar pelos pontos de parada (jump) dentro do snippet
 		vim.keymap.set({ "i", "s" }, "<C-j>", function()
-			if ls.jumpable(1) then
+			if ls.locally_jumpable(1) then
 				ls.jump(1)
 			end
 		end)
 		vim.keymap.set({ "i", "s" }, "<C-k>", function()
-			if ls.jumpable(-1) then
+			if ls.locally_jumpable(-1) then
 				ls.jump(-1)
 			end
 		end)
 
 		-- Carrega os snippets da pasta lua/snippets/
 		require("luasnip.loaders.from_lua").lazy_load({ paths = "~/.config/nvim/lua/snippets/" })
+
+		-- Aumenta os delimitadores ao redor de frações, somatórios e integrais.
+		require("config.tex_autosize").setup()
 	end,
 }
