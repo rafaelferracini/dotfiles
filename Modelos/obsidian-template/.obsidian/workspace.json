@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "a297267c94f8032a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b642f3d51fb65adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bef16ef605c798f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dinamica_dos_fluidos/Aula 08 - Fluidos Reais (Com Viscosidade).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 08 - Fluidos Reais (Com Viscosidade)"
+            }
+          },
+          {
+            "id": "790acd5c87c8a268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "4ab0f481b78299a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Questões/2026-1/mcPT4a (2026-1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mcPT4a (2026-1)"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "06fea025c5de5868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69f4bfc902210385",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "06 - Aulas/Resolução EUF/2026-1/Mecânica Clássica.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "Mecânica Clássica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16f3b92da6f05cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8113c47f38f1b0a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f7dee51835edada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "4b39edbd94c86267",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#2025-2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ebc8f70aa3b51ce0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "62392bc6f2ed54e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f41505683c351cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150d9a2fc93f15b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "035f0593e3aaa658",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "170ac92a20fef4cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c45f71fd82c55c1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "d451ce6d4dbda885",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "69f4bfc902210385",
+  "lastOpenFiles": [
+    "02 - Questões/2026-1/mcPT4a (2026-1).md",
+    "06 - Aulas/Resolução EUF/2026-1/Mecânica Clássica.mp4",
+    "05 - PDF/Provas Antigas/2026-1.pdf",
+    "mcPT4a.png",
+    "02 - Questões/2026-1/mcPT3b (2026-1).md",
+    "02 - Questões/2026-1/mcPT3a (2026-1).md",
+    "02 - Questões/2026-1/mcPT2b (2026-1).md",
+    "02 - Questões/2026-1/mqPT3a (2026-1).md",
+    "TODO.md",
+    "Pasted image 20260916111752.png",
+    "01 - Resources/160920261046.md",
+    "dinamica_dos_fluidos/Aula 09 - Soluções de Navier Stokes.md",
+    "01 - Resources/160920261046.svg",
+    "Pasted image 20260916102829.png",
+    "dinamica_dos_fluidos/Aula 08 - Fluidos Reais (Com Viscosidade).md",
+    "02 - Questões/2026-1/mcPT2a (2026-1).md",
+    "mcPT2b.png",
+    "mcPT2a.png",
+    "02 - Questões/2026-1/mcPT1b (2026-1).md",
+    "mcPT1b.png",
+    "02 - Questões/2026-1/mcPT1a (2026-1).md",
+    "mcPT1a.png",
+    "02 - Questões/2026-1/emPT1a (2026-1).md",
+    "01 - Resources/Pasted image 20260913204302.png",
+    "06 - Aulas/Eletromagnetismo/6 - Ondas eletromagnéticas e vetor de Poynting/6.3 Lei de Malus.mp4",
+    "02 - Questões/2026-1/fePT4b (2026-1).md",
+    "02 - Questões/2026-1/fePT4a (2026-1).md",
+    "02 - Questões/2026-1/fePT3b (2026-1).md",
+    "02 - Questões/2026-1/fePT3a (2026-1).md",
+    "02 - Questões/2026-1/fePT2b (2026-1).md",
+    "02 - Questões/2026-1/fePT2a (2026-1).md",
+    "02 - Questões/2026-1/fePT1b (2026-1).md",
+    "02 - Questões/2026-1/fePT1a (2026-1).md",
+    "02 - Questões/2026-1/mqPT8b (2026-1).md",
+    "02 - Questões/2026-1/mqPT8a (2026-1).md",
+    "02 - Questões/2026-1/mqPT7b (2026-1).md",
+    "02 - Questões/2026-1/mqPT7a (2026-1).md",
+    "02 - Questões/2026-1",
+    "01 - Resources/Pasted image 20260914112150.png",
+    "06 - Aulas/Eletromagnetismo/6 - Ondas eletromagnéticas e vetor de Poynting/6.2 Forma das ondas eletromagnéticas.mp4",
+    "06 - Aulas/Eletromagnetismo/6 - Ondas eletromagnéticas e vetor de Poynting/6.1 Vetor de Poynting.mp4",
+    "06 - Aulas/Eletromagnetismo/5 - Circuitos elétricos/5.3 Circuitos LC.mp4",
+    "06 - Aulas/Eletromagnetismo/5 - Circuitos elétricos/5.2 Circuitos RC.mp4",
+    "06 - Aulas/Eletromagnetismo/5 - Circuitos elétricos/5.1 Circuitos resistivos.mp4",
+    "06 - Aulas/Eletromagnetismo/4 - Correções de Maxwell/4.2 Cálculo do campo magnético pela correção de ampere.mp4"
+  ]
+}

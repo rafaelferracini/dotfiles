@@ -1,0 +1,11 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Daily Note Themes",
+    "CyanVoxel's General Tweaks",
+    "print"
+  ],
+  "showRibbon": true
+}

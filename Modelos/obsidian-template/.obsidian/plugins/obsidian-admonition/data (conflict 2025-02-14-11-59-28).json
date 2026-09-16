@@ -1,0 +1,86 @@
+{
+  "userAdmonitions": {
+    "def": {
+      "type": "def",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "address-card",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definição",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "teo": {
+      "type": "teo",
+      "color": "0, 42, 255",
+      "icon": {
+        "name": "pencil-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Teorema",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "nota": {
+      "type": "nota",
+      "color": "71, 71, 71",
+      "icon": {
+        "name": "lucide-paperclip",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Nota",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "exemplo": {
+      "type": "exemplo",
+      "color": "32, 213, 128",
+      "icon": {
+        "name": "ad",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Exemplo",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "pro": {
+      "type": "pro",
+      "color": "153, 0, 255",
+      "icon": {
+        "name": "anchor",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Proposição",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.1a6e05"
+}

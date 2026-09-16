@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#excalidraw ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: #mecanica_classica",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag: #fisica_moderna",
+      "color": {
+        "a": 1,
+        "rgb": 11007
+      }
+    },
+    {
+      "query": "tag: #mecanica_quantica",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "tag: #eletromagnetismo",
+      "color": {
+        "a": 1,
+        "rgb": 16762670
+      }
+    },
+    {
+      "query": "tag: #mecanica_estatistica",
+      "color": {
+        "a": 1,
+        "rgb": 2713144
+      }
+    },
+    {
+      "query": "tag: #termodinamica",
+      "color": {
+        "a": 1,
+        "rgb": 13864684
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.74945454545455,
+  "lineSizeMultiplier": 1.19090909090909,
+  "collapse-forces": false,
+  "centerStrength": 0.28649083954097,
+  "repelStrength": 20,
+  "linkStrength": 0.640829474531911,
+  "linkDistance": 76,
+  "scale": 0.02723280643384743,
+  "close": false
+}
