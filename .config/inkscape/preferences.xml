@@ -118,8 +118,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="18.721272626261"
-         height="133.490807240404"
+         width="292.385782557209"
+         height="234.82951967735"
          ry="0"
          rx="5.24514814783538e-16" />
       <eventcontext
@@ -155,12 +155,12 @@
       <eventcontext
          id="arc"
          style="fill:red;"
-         end="119.99999986288"
+         end="0"
          start="0"
          usecurrent="1"
-         rx="14.4155790674405"
-         ry="14.4155790674405"
-         arc_type="1" />
+         rx="47.2101659098948"
+         ry="151.805117149053"
+         arc_type="0" />
       <eventcontext
          id="star"
          magnitude="3"
@@ -1035,7 +1035,7 @@
      org.inkscape.output.png.inkscape.png_compression="6"
      org.inkscape.output.png.inkscape.png_antialias="2"
      org.inkscape.generate.pdf_latex.page="basic"
-     org.inkscape.generate.pdf_latex.formule="$(b)$"
+     org.inkscape.generate.pdf_latex.formule="$\frac{\partial y}{\partial x}$"
      org.inkscape.generate.pdf_latex.preamble="\usepackage{amsmath}\usepackage{amssymb}\usepackage{lmodern}"
      org.inkscape.generate.grid_polar.a_labels="none"
      org.inkscape.generate.grid_polar.__live_effect__="0"
@@ -1053,11 +1053,11 @@
      id="desktop"
      style="text-orientation:auto;stroke-width:1.07338583;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#000000;-inkscape-font-specification:'Liberation Mono';font-family:'Liberation Mono'">
     <group
-       width="1900"
+       width="1071"
        height="1025"
        x="0"
        y="0"
-       maximized="1"
+       maximized="0"
        fullscreen="0"
        id="geometry" />
     <group

@@ -293,7 +293,7 @@
     "setOnlyTheoremAsMain": false,
     "setLabelInModal": false,
     "excludeExampleCallout": false,
-    "enableProof": true,
+    "enableProof": false,
     "enableMathPreviewInCalloutAndQuote": true,
     "autocompleteDvQuery": "",
     "searchModalQueryType": "both",
@@ -307,6 +307,8 @@
     "08 - Archive/produtos devido ao roacutan.md",
     "02 - Permanent/como usar repositório dotfiles.md",
     "03- Literature/IC/estrutura do espaço tempo.md",
-    "03- Literature/IC/estrutura do espaço tempo v2.md"
+    "03- Literature/IC/estrutura do espaço tempo v2.md",
+    "integral.md",
+    "teste.md"
   ]
 }
