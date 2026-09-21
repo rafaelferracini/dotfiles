@@ -26,7 +26,7 @@
        state="1" />
     <group
        id="rulers"
-       state="1" />
+       state="0" />
     <group
        id="scrollbars"
        state="1" />
@@ -118,15 +118,15 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="292.385782557209"
-         height="234.82951967735"
+         width="67.5434551088838"
+         height="200.074674351009"
          ry="0"
-         rx="5.24514814783538e-16" />
+         rx="0" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
          usecurrent="1"
-         persp="perspective7">
+         persp="perspective1">
         <side
            id="XYfront"
            style="fill:#8686bf;stroke:none;stroke-linejoin:round;"
@@ -158,8 +158,8 @@
          end="0"
          start="0"
          usecurrent="1"
-         rx="47.2101659098948"
-         ry="151.805117149053"
+         rx="18.245447113758"
+         ry="18.245447113758"
          arc_type="0" />
       <eventcontext
          id="star"
@@ -191,7 +191,7 @@
          selcue="1"
          style="stroke-width:1px;"
          usecurrent="1"
-         freehand-mode="0" />
+         freehand-mode="2" />
     </group>
     <eventcontext
        id="calligraphic"
@@ -618,7 +618,7 @@
     <group
        id="preferences"
        state="1"
-       page="18" />
+       page="1" />
     <group
        id="gradienteditor" />
     <group
@@ -1024,7 +1024,7 @@
        snap-path-clip="0"
        snap-page-border="0"
        snap-page-margin="0"
-       snap-grid="0"
+       snap-grid="1"
        snap-grid-line="1"
        snap-guide="0"
        snap-global-toggle="1" />
@@ -1051,12 +1051,12 @@
      org.inkscape.render.wireframe_sphere.rotation="5" />
   <group
      id="desktop"
-     style="text-orientation:auto;stroke-width:1.07338583;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#000000;-inkscape-font-specification:'Liberation Mono';font-family:'Liberation Mono'">
+     style="text-orientation:auto;stroke-width:1.0616;stroke-linecap:round;stroke-linejoin:round;-inkscape-font-specification:'Liberation Mono';font-family:'Liberation Mono';stroke:black;fill:none">
     <group
-       width="1071"
+       width="1900"
        height="1025"
-       x="0"
-       y="0"
+       x="10"
+       y="45"
        maximized="0"
        fullscreen="0"
        id="geometry" />
@@ -1174,7 +1174,7 @@
      id="theme"
      defaultPreferDarkTheme="1"
      defaultIconTheme="Adwaita"
-     defaultGtkTheme="adw-gtk3-dark"
+     defaultGtkTheme="adw-gtk3"
      narrowSpinButton="1"
      preferDarkTheme="1"
      darkTheme="1"

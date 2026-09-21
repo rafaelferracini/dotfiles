@@ -11,10 +11,14 @@
             "id": "1fdc58ff4fb3599a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03- Literature/Physics/Estado Sólido/Notas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Notas"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "89b5a8a2632358db",
@@ -179,14 +184,50 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76d26a797f7ad076",
+  "active": "1fdc58ff4fb3599a",
   "lastOpenFiles": [
-    "integral.md",
-    "teste.md",
-    "figures/campo-elétrico.svg",
+    "03- Literature/Physics/Estado Sólido/figures/celula_primitiva.svg",
+    "03- Literature/Physics/Estado Sólido/figures/estrutura-cristalina.svg",
+    "03- Literature/Physics/Estado Sólido/figures/rede-e-base.svg",
+    "03- Literature/Physics/Estado Sólido/figures/teste.svg",
+    "03- Literature/Physics/Estado Sólido/figures",
+    "03- Literature/Physics/Estado Sólido/teste.svg",
+    "figures/teste.svg",
+    "03- Literature/Physics/Estado Sólido/Notas.md",
+    "03- Literature/Physics/Estado Sólido",
+    "figures/figura-teste.svg",
+    "figures/eixo.svg",
+    "02 - Questões/2026-1/mqPT1a (2026-1).md",
+    "06 - Aulas/Resolução EUF/2026-1/Mecânica Quântica.mp4",
+    "04 - Teoria/Mecânica Quântica/observáveis compativeis.md",
+    "04 - Teoria/Mecânica Quântica/observáveis de momento angular.md",
+    "04 - Teoria/Mecânica Quântica/operadores, autofunções e valores médios.md",
+    "04 - Teoria/Mecânica Quântica/primeiro postulado da mecânica quântica.md",
+    "04 - Teoria/Mecânica Quântica/probabilidade de função de onda.md",
+    "04 - Teoria/Mecânica Quântica/probabilidade de medição.md",
+    "04 - Teoria/Mecânica Quântica/segundo postulado da mecânica quântica.md",
+    "04 - Teoria/Mecânica Quântica/solução do poço infinito.md",
+    "04 - Teoria/Mecânica Quântica/soma de momento angular.md",
+    "04 - Teoria/Mecânica Quântica/matrizes recorrentes.md",
+    "02 - Questões/2026-1/fmPT3a (2026-1).md",
+    "02 - Questões/2026-1/fmPT2a (2026-1).md",
+    "02 - Questões/2026-1/fmPT1a (2026-1).md",
+    "05 - PDF/Formulário fornecido pelo EUF.pdf",
+    "06 - Aulas/Resolução EUF/2026-1/Física Moderna.mp4",
+    "02 - Questões/2026-1/fmPT8a (2026-1).md",
+    "figures/fmpt8a.svg",
+    "figures/fmpt7a.svg",
+    "05 - PDF/Provas Antigas/2026-1.pdf",
+    "02 - Questões/2026-1/fmPT7a (2026-1).md",
+    "02 - Questões/2026-1/fmPT6a (2026-1).md",
+    "02 - Questões/2026-1/fmPT5a (2026-1).md",
+    "02 - Questões/2026-1/fmPT4a (2026-1).md",
+    "TODO.md",
+    "02 - Questões/2026-1/figuras/Pasted image 20260919125552.png",
+    "01 - Resources/200920262019.md",
+    "01 - Resources/200920261700.md",
     "figures",
-    "Sem título 1.md",
-    "Sem título.md",
-    "figures/campo-eletrico.svg"
+    "01 - Resources/200920261626.md",
+    "integral.md"
   ]
 }

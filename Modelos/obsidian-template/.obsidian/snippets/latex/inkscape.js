@@ -1,9 +1,9 @@
 // LaTeX Suite — Obsidian Desktop, Linux.
 // Digite figure: nome da figura e pressione Tab, fora de fórmulas.
-// Para editar, selecione ![[figures/nome-da-figura.svg]] e pressione Ctrl+Alt+i.
+// A figura é criada na subpasta figures da pasta da nota ativa.
+// Para editar, selecione a incorporação ![[...svg]] e pressione Ctrl+Alt+i.
 
-const FIGURES_DIR = "figures";
-const INKSCAPE = "inkscape"; // Pode ser substituído pelo caminho absoluto.
+const INKSCAPE = "/home/rafaelf/scripts/inkscape-shortcut-manager/inkscape-managed";
 
 function openFigure(relativePath, create) {
     const { Notice } = require("obsidian");
@@ -64,7 +64,14 @@ export default [
                 new Notice("Use letras, números, espaços, hífens ou sublinhados no nome da figura.");
                 return false;
             }
-            const relativePath = FIGURES_DIR + "/" + name + ".svg";
+            const note = app.workspace.getActiveFile();
+            if (!note || note.extension !== "md") {
+                const { Notice } = require("obsidian");
+                new Notice("Abra uma nota Markdown antes de criar a figura.");
+                return false;
+            }
+            const folder = require("path").posix.dirname(note.path);
+            const relativePath = (folder === "." ? "" : folder + "/") + "figures/" + name + ".svg";
             if (!openFigure(relativePath, true)) return false;
             return "![[" + relativePath + "]]";
         },
@@ -74,7 +81,7 @@ export default [
         options: "tv",
         description: "Editar a figura SVG selecionada no Inkscape",
         replacement: selection => {
-            const match = /^!\[\[(figures\/[\p{L}\p{N}_-]+\.svg)\]\]$/u.exec(selection.trim());
+            const match = /^!\[\[([^\[\]\n|#]+\.svg)\]\]$/u.exec(selection.trim());
             if (!match) return false;
             if (!openFigure(match[1], false)) return false;
             return selection;
